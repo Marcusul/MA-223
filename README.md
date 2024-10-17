@@ -1,1 +1,2 @@
-# MA-223
+# MA-223 
+Statistikk Løsningsforslag
