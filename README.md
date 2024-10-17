@@ -1,2 +1,2 @@
-# MA-223 
-Statistikk Løsningsforslag
+# MA-223 Statistikk Løsningsforslag
+
